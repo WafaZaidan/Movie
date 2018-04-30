@@ -50,5 +50,9 @@ and open the template in the editor.
             </div>
             <button type="submit" class="btn btn-default" <br>Upload an XML file</button>
         </form>
+        
+          <?php
+      
+        ?> 
     </body>
 </html> 
