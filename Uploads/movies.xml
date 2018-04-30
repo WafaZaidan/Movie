@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<Movies>
+    <movie >
+        <Actor> Roger Moore</Actor>
+        <Name >Dr No</Name>
+        <director>someone</director>
+        <year>1991</year>
+        
+    </movie>
+    
+        <movie >
+               <Actor> Pierce Moore</Actor>
+        <Name >Thunderball</Name>
+        <director>Someone</director>
+        <year>1992</year>
+        
+    </movie>
+     <movie >
+            <Actor> Daniel Craig</Actor>
+        <Name >Moonraker</Name>
+        <director>Someone</director>
+        <year>1993</year>
+        
+    </movie>
+     <movie >
+            <Actor> Timothy Dalton</Actor>
+        <Name >No program available</Name>
+        <director></director>
+        <year></year>
+        
+    </movie>
+   
+      <movie >
+             <Actor> Sean Conney</Actor>
+        <Name >No program available</Name>
+        <director></director>
+        <year></year>
+        
+    </movie>
+</Movies>
