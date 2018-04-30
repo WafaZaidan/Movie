@@ -30,7 +30,7 @@ and open the template in the editor.
 
                     echo "<td class='CellWithComment'>  $movie->Actor </td> ";
 
-                    echo "<td class='CellWithComment'>  $movie->Name <span class='CellComment'> $movie->director </span> </td></tr>  ";
+                    echo "<td class='CellWithComment'>  $movie->Name <span class='CellComment'> Director: $movie->director </span> </td></tr>  ";
                 }
                 ?>
 
